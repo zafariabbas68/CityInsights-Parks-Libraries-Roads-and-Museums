@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: CityInsight
+Version: 0.1
+Summary: A Python package to visualize parks, libraries, roads, and museums in various cities.
+Author: Your Name
+Author-email: your.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/plain
+Requires-Dist: osmnx
+Requires-Dist: geopandas
+Requires-Dist: matplotlib
+
+CityInsight provides tools to plot and analyze various city features like parks, libraries, roads, and museums using OpenStreetMap data.
