@@ -135,7 +135,8 @@ These files can be found in the current working directory and contain visual rep
 ### **Boston**
 ## Boston City Map: Roads, Parks, Libraries, and Museums
 
-![Boston Plot](boston_roads_parks_libraries.png)
+![Boston Plot](images/boston_roads_parks_libraries.png)
+
 
 
 ### **Barcelona**
