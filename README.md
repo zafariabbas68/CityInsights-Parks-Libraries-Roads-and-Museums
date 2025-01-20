@@ -1,5 +1,4 @@
 
-```markdown
 # **CityInsights: Parks, Libraries, Roads, and Museums**
 
 **CityInsights** is a Python project that visualizes key urban features across multiple cities using OpenStreetMap (OSM) data. The project focuses on mapping and analyzing parks, libraries, museums, and major roads in cities like **Boston**, **Barcelona**, and **Amsterdam**. By leveraging Python libraries such as OSMnx, GeoPandas, and Matplotlib, this project offers an easy way to analyze the urban environment and gain insights into the distribution of essential urban features.
