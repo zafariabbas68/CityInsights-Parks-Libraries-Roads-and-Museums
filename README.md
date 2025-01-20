@@ -133,7 +133,10 @@ These files can be found in the current working directory and contain visual rep
 ## Example Output
 
 ### **Boston**
-![Boston Visualization](boston_roads_parks_libraries_museums.png)
+## Boston City Map: Roads, Parks, Libraries, and Museums
+
+![Boston Plot](boston_roads_parks_libraries.png)
+
 
 ### **Barcelona**
 ![Barcelona Visualization](barcelona_roads_parks_libraries_museums.png)
