@@ -1,17 +1,18 @@
-Here’s a detailed `README.md` for your project **CityInsights: Parks, Libraries, Roads, and Museums**. This will describe the goal of the project, the key cities (Boston, Barcelona, and Amsterdam), and how the three core functions work.
 
 ```markdown
-# CityInsights: Parks, Libraries, Roads, and Museums
+# **CityInsights: Parks, Libraries, Roads, and Museums**
 
-CityInsights is a Python project that visualizes key urban features across multiple cities using OpenStreetMap (OSM) data. The project focuses on mapping and analyzing parks, libraries, museums, and major roads in cities like **Boston**, **Barcelona**, and **Amsterdam**. By leveraging Python libraries such as OSMnx, GeoPandas, and Matplotlib, this project offers an easy way to analyze the urban environment and gain insights into the distribution of essential urban features.
+**CityInsights** is a Python project that visualizes key urban features across multiple cities using OpenStreetMap (OSM) data. The project focuses on mapping and analyzing parks, libraries, museums, and major roads in cities like **Boston**, **Barcelona**, and **Amsterdam**. By leveraging Python libraries such as OSMnx, GeoPandas, and Matplotlib, this project offers an easy way to analyze the urban environment and gain insights into the distribution of essential urban features.
 
 ## Key Features
+
 - **Parks**: Visualizes all the parks in a given city using OSM data.
 - **Libraries**: Displays libraries based on data from OSM, highlighting the locations of public libraries in each city.
 - **Museums**: Plots museums across the city to understand cultural attractions and tourism areas.
 - **Major Roads**: Maps major roads and street networks, providing insights into transportation infrastructure.
-  
+
 The cities currently supported by this project are:
+
 - **Boston** (USA)
 - **Barcelona** (Spain)
 - **Amsterdam** (Netherlands)
@@ -20,6 +21,7 @@ The cities currently supported by this project are:
 
 ### Requirements
 Make sure you have the following Python libraries installed:
+
 - **OSMnX**: for downloading and handling OpenStreetMap (OSM) data.
 - **GeoPandas**: for working with geographical data.
 - **Matplotlib**: for plotting and visualizing the data.
@@ -131,13 +133,13 @@ These files can be found in the current working directory and contain visual rep
 
 ## Example Output
 
-### Boston
+### **Boston**
 ![Boston Visualization](boston_roads_parks_libraries_museums.png)
 
-### Barcelona
+### **Barcelona**
 ![Barcelona Visualization](barcelona_roads_parks_libraries_museums.png)
 
-### Amsterdam
+### **Amsterdam**
 ![Amsterdam Visualization](amsterdam_roads_parks_libraries_museums.png)
 
 ## Contributing
@@ -150,26 +152,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-By using this project, you can easily visualize the distribution of parks, libraries, museums, and major roads in key cities across the world. CityInsights helps urban researchers, city planners, and enthusiasts gain valuable insights into the infrastructure of urban environments.
-
+By using this project, you can easily visualize the distribution of parks, libraries, museums, and major roads in key cities across the world. **CityInsights** helps urban researchers, city planners, and enthusiasts gain valuable insights into the infrastructure of urban environments.
 ```
 
-### Explanation:
 
-- **Project Overview**: This section outlines the purpose of the project and its key features—visualizing parks, libraries, museums, and roads across cities like **Boston**, **Barcelona**, and **Amsterdam**.
-  
-- **Installation**: Instructions on installing required dependencies and setting up the project locally.
-
-- **Functions**: Provides a breakdown of the three core functions (`plot_boston_roads_network`, `plot_barcelona_roads_network`, and `plot_amsterdam_roads_network`). Each function's purpose and an example usage are provided, along with a description of the customizable `show_plot` argument.
-
-- **Running Tests**: Explains how to run the tests with `pytest` and what they check.
-
-- **Output**: Describes what output users should expect (the PNG plots for each city).
-
-- **Example Outputs**: A visual section showing examples of the output plots for each city (you can include actual images here if you want).
-
-- **Contributing**: A note on how others can contribute to the project.
-
-- **License**: Specifies the open-source license for the project.
-
-You can now add this `README.md` to your Git repository, and it will provide a comprehensive guide for others to use and contribute to your project! Let me know if you need further modifications.
