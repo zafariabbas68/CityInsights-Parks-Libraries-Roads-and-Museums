@@ -34,7 +34,7 @@ pip install osmnx geopandas matplotlib
 If you haven't already installed the project as a package, you can install it locally using `pip`:
 
 ```bash
-pip install .
+pip install CityInsight
 ```
 
 ### Project Structure
