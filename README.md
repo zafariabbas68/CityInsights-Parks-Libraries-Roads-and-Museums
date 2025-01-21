@@ -155,6 +155,15 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 By using this project, you can easily visualize the distribution of parks, libraries, museums, and major roads in key cities across the world. **CityInsights** helps urban researchers, city planners, and enthusiasts gain valuable insights into the infrastructure of urban environments.
+
+
+### **Contact**
+
+For any inquiries or issues, please contact:
+
+- **Author**: Ghulam Abbas Zafari
+- **Email**: ghulamabbas.zafari@mail.polimi.it
+```
 ```
 
 
