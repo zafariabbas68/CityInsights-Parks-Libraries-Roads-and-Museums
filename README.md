@@ -108,15 +108,34 @@ plot_amsterdam_roads_network(show_plot=True)
   - Libraries in orange
   - Museums in dark blue
 
-![Angle Distribution of Street Networks](City_metrics/Angle_Distribution_of_Street_Networks.png)
-![Circuity (Avg Edge Straightness)](City_metrics/Circuity_Avg_Edge_Straightness.png)
-![Circuity Distribution](City_metrics/Circuity_Distribution.png)
-![City Insight](City_metrics/City_Insight.ipynb)
-![Intersection Density](City_metrics/Intersection_Density_per_km2.png)
-![Log-Log KDE Distribution](City_metrics/Log_Log_KDE_Distribution_of_Street_Metrics.png)
-![Screenshot](City_metrics/Screenshot_2025_02_02_at_09_36_09.png)
-![Street Density](City_metrics/Street_Density_km_per_km2.png)
-![Street Network of Barcelona](City_metrics/Street_Network_of_Barcelona.png)
+## City Insight Project
+
+Here are some of the visualizations and files used in the City Insight project:
+
+### Street Network of Barcelona
+![Street Network of Barcelona](./Street%20Network%20of%20Barcelona.png)
+
+### Street Density (km per km²)
+![Street Density](./Street%20Density%20%28km%20per%20km%29.png)
+
+### Log-Log KDE Distribution of Street Metrics
+![Log-Log KDE Distribution](./Log-Log%20KDE%20Distribution%20of%20Street%20Metrics.png)
+
+### Intersection Density (per km²)
+![Intersection Density](./Intersection%20Density%20%28per%20km%29.png)
+
+### City Insight Jupyter Notebook
+[City Insight.ipynb](./City%20Insight.ipynb)
+
+### Circuity Distribution
+![Circuity Distribution](./Circuity%20Distribution.png)
+
+### Circuity (Avg Edge Straightness)
+![Circuity (Avg Edge Straightness)](./Circuity%20%28Avg%20Edge%20Straightness.png)
+
+### Angle Distribution of Street Networks
+![Angle Distribution of Street Networks](./Angle%20Distribution%20of%20Street%20Networks.png)
+
 
 
 
