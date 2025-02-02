@@ -116,13 +116,13 @@ Here are some of the visualizations and files used in the City Insight project:
 ![Street Network of Barcelona](./Street%20Network%20of%20Barcelona.png)
 
 ### Street Density
-![Street Density](./Street%20Density%20.png)
+![Street Density](./Street_Density.png)
 
 ### Log-Log KDE Distribution of Street Metrics
 ![Log-Log KDE Distribution](./Log-Log%20KDE%20Distribution%20of%20Street%20Metrics.png)
 
 ### Intersection Density
-![Intersection Density](./Intersection%20Density%20.png)
+![Intersection Density](./Intersection_Density.png)
 
 ### Circuity Distribution
 ![Circuity Distribution](./Circuity%20Distribution.png)
