@@ -124,7 +124,6 @@ Here are some of the visualizations and files used in the City Insight project:
 ### Intersection Density (per km²)
 ![Intersection Density](./Intersection%20Density%20%28per%20km%29.png)
 
-
 ### Circuity Distribution
 ![Circuity Distribution](./Circuity%20Distribution.png)
 
@@ -133,6 +132,7 @@ Here are some of the visualizations and files used in the City Insight project:
 
 ### Angle Distribution of Street Networks
 ![Angle Distribution of Street Networks](./Angle%20Distribution%20of%20Street%20Networks.png)
+
 
 
 
