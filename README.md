@@ -115,14 +115,14 @@ Here are some of the visualizations and files used in the City Insight project:
 ### Street Network of Barcelona
 ![Street Network of Barcelona](./Street%20Network%20of%20Barcelona.png)
 
-### Street Density (km per km²)
-![Street Density](./Street%20Density%20%28km%20per%20km%29.png)
+### Street Density
+![Street Density](./Street%20Density%20.png)
 
 ### Log-Log KDE Distribution of Street Metrics
 ![Log-Log KDE Distribution](./Log-Log%20KDE%20Distribution%20of%20Street%20Metrics.png)
 
-### Intersection Density (per km²)
-![Intersection Density](./Intersection%20Density%20%28per%20km%29.png)
+### Intersection Density
+![Intersection Density](./Intersection%20Density%20.png)
 
 ### Circuity Distribution
 ![Circuity Distribution](./Circuity%20Distribution.png)
