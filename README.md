@@ -108,6 +108,33 @@ plot_amsterdam_roads_network(show_plot=True)
   - Libraries in orange
   - Museums in dark blue
 
+## Example Plots
+
+### **Angle Distribution of Street Networks**
+![Angle Distribution of Street Networks](assets/images/Angle%20Distribution%20of%20Street%20Networks.png)
+
+### **Circuity (Avg Edge Straightness)**
+![Circuity (Avg Edge Straightness)](assets/images/Circuity%20(Avg%20Edge%20Straightness).png)
+
+### **Circuity Distribution**
+![Circuity Distribution](assets/images/Circuity%20Distribution.png)
+
+### **Intersection Density (per km²)**
+![Intersection Density (per km²)](assets/images/Intersection%20Density%20(per%20km²).png)
+
+### **Log-Log KDE Distribution of Street Metrics**
+![Log-Log KDE Distribution of Street Metrics](assets/images/Log-Log%20KDE%20Distribution%20of%20Street%20Metrics.png)
+
+### **Street Density (km per km²)**
+![Street Density (km per km²)](assets/images/Street%20Density%20(km%20per%20km²).png)
+
+### **Street Network of Barcelona**
+![Street Network of Barcelona](assets/images/Street%20Network%20of%20Barcelona.png)
+
+### **Screenshot from February 2025**
+![Screenshot](assets/images/Screenshot%202025-02-02%20at%2009.36.09.png)
+
+
 ## Running Tests
 
 To ensure the functionality works as expected, tests have been written for each city’s road network and urban feature visualization. You can run the tests using `pytest`.
