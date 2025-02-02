@@ -108,15 +108,15 @@ plot_amsterdam_roads_network(show_plot=True)
   - Libraries in orange
   - Museums in dark blue
 
-![Angle Distribution of Street Networks](City_metrics/Angle Distribution of Street Networks.png)
-![Circuity (Avg Edge Straightness)](City_metrics/Circuity (Avg Edge Straightness.png)
-![Circuity Distribution](City_metrics/Circuity Distribution.png)
-![City Insight](City_metrics/City Insight.ipynb)
-![Intersection Density](City_metrics/Intersection Density (per km².png)
-![Log-Log KDE Distribution](City_metrics/Log-Log KDE Distribution of Street Metrics.png)
-![Screenshot](City_metrics/Screenshot 2025-02-02 at 09.36.09.png)
-![Street Density](City_metrics/Street Density (km per km².png)
-![Street Network of Barcelona](City_metrics/Street Network of Barcelona.png)
+![Angle Distribution of Street Networks](City_metrics/Angle_Distribution_of_Street_Networks.png)
+![Circuity (Avg Edge Straightness)](City_metrics/Circuity_Avg_Edge_Straightness.png)
+![Circuity Distribution](City_metrics/Circuity_Distribution.png)
+![City Insight](City_metrics/City_Insight.ipynb)
+![Intersection Density](City_metrics/Intersection_Density_per_km2.png)
+![Log-Log KDE Distribution](City_metrics/Log_Log_KDE_Distribution_of_Street_Metrics.png)
+![Screenshot](City_metrics/Screenshot_2025_02_02_at_09_36_09.png)
+![Street Density](City_metrics/Street_Density_km_per_km2.png)
+![Street Network of Barcelona](City_metrics/Street_Network_of_Barcelona.png)
 
 
 
