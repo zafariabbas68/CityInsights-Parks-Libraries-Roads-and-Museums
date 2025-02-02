@@ -124,8 +124,6 @@ Here are some of the visualizations and files used in the City Insight project:
 ### Intersection Density (per km²)
 ![Intersection Density](./Intersection%20Density%20%28per%20km%29.png)
 
-### City Insight Jupyter Notebook
-[City Insight.ipynb](./City%20Insight.ipynb)
 
 ### Circuity Distribution
 ![Circuity Distribution](./Circuity%20Distribution.png)
